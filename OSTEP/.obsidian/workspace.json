@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Pseudocode.md",
+                "file": "01_Preface/02_Pseudocode.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,7 +199,7 @@
   },
   "active": "484a908117409389",
   "lastOpenFiles": [
-    "02_Pseudocode.md",
+    "01_Preface/02_Pseudocode.md",
     "Unknown_English_Words.md",
     "Welcome.md",
     "Untitled",
