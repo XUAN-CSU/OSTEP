@@ -241,3 +241,229 @@ pluraladdenda [ə-ˈden-də](https://www.merriam-webster.com/dictionary/addendu
 **:** a [supplement](https://www.merriam-webster.com/dictionary/supplement#h1) to a book 
 
 —often used in plural but singular in construction
+
+
+# strive
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+[ˈstrīv](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive01 "How to pronounce strive (audio)") 
+
+strove [ˈstrōv](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive02 "How to pronounce strive (audio)")  also strived [ˈstrīvd](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive03 "How to pronounce strive (audio)")  ; striven [ˈstri-vən](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive04 "How to pronounce strive (audio)")  or strived; striving [ˈstrī-viŋ](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive05 "How to pronounce strive (audio)") 
+
+[Synonyms of _strive_](https://www.merriam-webster.com/thesaurus/strive)
+
+[intransitive verb](https://www.merriam-webster.com/dictionary/intransitive)
+
+1
+
+**:** to devote serious effort or energy **:** [endeavor](https://www.merriam-webster.com/dictionary/endeavor)
+
+strive to finish a project
+
+2
+
+**:** to struggle in opposition **:** [contend](https://www.merriam-webster.com/dictionary/contend)
+
+striver 
+
+[ˈstrī-vər](https://www.merriam-webster.com/dictionary/strive?pronunciation&lang=en_us&dir=s&file=strive06 "How to pronounce strive (audio)") 
+
+ noun
+
+# celebrate
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+cel·​e·​brate [ˈse-lə-ˌbrāt](https://www.merriam-webster.com/dictionary/celebrate?pronunciation&lang=en_us&dir=c&file=celebr02 "How to pronounce celebrate (audio)") 
+
+celebrated; celebrating
+
+[Synonyms of _celebrate_](https://www.merriam-webster.com/thesaurus/celebrate)
+
+[transitive verb](https://www.merriam-webster.com/dictionary/transitive)
+
+1
+
+**:** to perform (a sacrament or solemn ceremony) publicly and with appropriate rites
+
+A priest celebrates Mass.
+
+2
+
+a
+
+**:** to honor (an occasion, such as a holiday) especially by solemn ceremonies or by refraining from ordinary business
+
+The nation celebrates Memorial Day.
+
+b
+
+**:** to mark (something, such as an anniversary) by festivities or other deviation from routine
+
+_celebrated_ their 25th anniversary
+
+3
+
+**:** to hold up or play up for public notice
+
+her poetry celebrates the glory of nature
+
+[intransitive verb](https://www.merriam-webster.com/dictionary/intransitive)
+
+1
+
+**:** to observe a holiday, perform a religious ceremony, or take part in a festival
+
+The holiday revelers _celebrated_ all day long.
+
+2
+
+**:** to observe a notable occasion with festivities
+
+decided the only way to celebrate was to have a party
+
+celebration 
+
+[ˌse-lə-ˈbrā-shən](https://www.merriam-webster.com/dictionary/celebrate?pronunciation&lang=en_us&dir=c&file=celebr03 "How to pronounce celebrate (audio)") 
+
+ noun
+
+celebrative 
+
+[ˈse-lə-ˌbrā-tiv](https://www.merriam-webster.com/dictionary/celebrate?pronunciation&lang=en_us&dir=c&file=celeb01v "How to pronounce celebrate (audio)") 
+
+ adjective
+
+celebrator 
+
+[ˈse-lə-ˌbrā-tər](https://www.merriam-webster.com/dictionary/celebrate?pronunciation&lang=en_us&dir=c&file=celebr04 "How to pronounce celebrate (audio)") 
+
+ noun
+
+# gem
+
+1 of 3
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+[ˈjem](https://www.merriam-webster.com/dictionary/gem?pronunciation&lang=en_us&dir=g&file=gem00001 "How to pronounce gem (audio)") 
+
+[Synonyms of _gem_](https://www.merriam-webster.com/thesaurus/gem)
+
+1
+
+a
+
+**:** [jewel](https://www.merriam-webster.com/dictionary/jewel)
+
+b
+
+**:** a precious or sometimes semiprecious stone cut and polished for ornament
+
+2
+
+a
+
+**:** something prized especially for great beauty or perfection
+
+b
+
+**:** a highly prized or well-beloved person
+
+3
+
+**:** [muffin](https://www.merriam-webster.com/dictionary/muffin)
+
+gem
+
+2 of 3
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+gemmed; gemming
+
+[transitive verb](https://www.merriam-webster.com/dictionary/transitive)
+
+**:** to adorn with or as if with gems
+
+GEM
+
+3 of 3
+
+## [abbreviation](https://www.merriam-webster.com/dictionary/abbreviation)
+
+ground-effect machine
+
+# pail
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+[ˈpāl](https://www.merriam-webster.com/dictionary/pail?pronunciation&lang=en_us&dir=p&file=pail0001 "How to pronounce pail (audio)") 
+
+[Synonyms of _pail_](https://www.merriam-webster.com/thesaurus/pail)
+
+1
+
+**:** a usually cylindrical container with a handle **:** [bucket](https://www.merriam-webster.com/dictionary/bucket)
+
+a milk pail
+
+2
+
+**:** the quantity that a pail contains
+
+a pail of water
+
+pailful 
+
+[ˈpāl-ˌfu̇l](https://www.merriam-webster.com/dictionary/pail?pronunciation&lang=en_us&dir=p&file=pail0002 "How to pronounce pail (audio)") 
+
+ noun
+# murky
+
+## [adjective](https://www.merriam-webster.com/dictionary/adjective)
+
+[ˈmər-kē](https://www.merriam-webster.com/dictionary/murky?pronunciation&lang=en_us&dir=m&file=murky001 "How to pronounce murky (audio)") 
+
+murkier; murkiest
+
+[Synonyms of _murky_](https://www.merriam-webster.com/thesaurus/murky)
+
+1
+
+**:** characterized by a heavy dimness or obscurity caused by or like that caused by overhanging fog or smoke
+
+the murky bottom of the lake
+
+2
+
+**:** characterized by thickness and heaviness of air **:** [foggy](https://www.merriam-webster.com/dictionary/foggy), [misty](https://www.merriam-webster.com/dictionary/misty)
+
+rain poured down from murky skies—_Newsweek_
+
+3
+
+**:** darkly vague or obscure
+
+murky official rhetoric
+
+He offered a murky explanation.
+
+murkily 
+
+[ˈmər-kə-lē](https://www.merriam-webster.com/dictionary/murky?pronunciation&lang=en_us&dir=m&file=murky002 "How to pronounce murky (audio)") 
+
+ adverb
+
+murkiness 
+
+[ˈmər-kē-nəs](https://www.merriam-webster.com/dictionary/murky?pronunciation&lang=en_us&dir=m&file=murky003 "How to pronounce murky (audio)") 
+
+ noun
+
+## Synonyms
+
+- [darkened](https://www.merriam-webster.com/dictionary/darkened)
+- [dark](https://www.merriam-webster.com/dictionary/dark)
+

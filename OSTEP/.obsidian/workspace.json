@@ -11,10 +11,14 @@
             "id": "247ed741ee4335ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unknown_English_Words.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unknown_English_Words"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
+                "file": "Unknown_English_Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FUTURE"
+              "title": "Backlinks for Unknown_English_Words"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
+                "file": "Unknown_English_Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FUTURE"
+              "title": "Outgoing links from Unknown_English_Words"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
+                "file": "Unknown_English_Words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FUTURE"
+              "title": "Outline of Unknown_English_Words"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74660d0095cfc0f2",
+  "active": "247ed741ee4335ca",
   "lastOpenFiles": [
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
     "01_Preface/04_project_of_the_book/Project_link_of_the_book.md",
     "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery",
@@ -195,7 +200,6 @@
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wgrep/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-reverse/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-kv/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/concurrency-webserver/README.md",
