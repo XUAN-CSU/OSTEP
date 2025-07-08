@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c18a6597bc5f2a41",
+        "id": "aa7321ab8f89043f",
         "type": "tabs",
         "children": [
           {
-            "id": "8309272a5b10a28b",
+            "id": "247ed741ee4335ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for FUTURE"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from FUTURE"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of FUTURE"
             }
           }
         ]
@@ -161,34 +164,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8309272a5b10a28b",
+  "active": "74660d0095cfc0f2",
   "lastOpenFiles": [
-    "01_Preface/02_Pseudocode.md",
-    "01_Preface/03_porject_of_the_book/Project_github_link.md",
-    "Unknown_English_Words.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-intro/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/cpu-sched-lottery/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/cpu-api/README.md",
-    "Welcome.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/udp.h",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/udp.c",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/server.c",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/Makefile",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro/client.c",
-    "01_Preface/03_porject_of_the_book/ostep-code/dist-intro",
-    "01_Preface/03_porject_of_the_book/ostep-code/file-intro/pstack.c",
-    "01_Preface/03_porject_of_the_book/ostep-code/file-intro",
-    "01_Preface/03_porject_of_the_book/ostep-code/include/common_threads.h",
-    "01_Preface/03_porject_of_the_book/ostep-code/include/common.h",
-    "01_Preface/03_porject_of_the_book/ostep-code/intro/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-api/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-bugs/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-cv/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-locks/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/threads-sema/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/vm-intro/README.md",
-    "01_Preface/03_porject_of_the_book/ostep-code/README.md",
-    "01_Preface/01_Page_Fault.md"
+    "01_Preface/04_project_of_the_book/Project_link_of_the_book.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery",
+    "01_Preface/04_project_of_the_book/ostep-projects/tester/run-xv6-command.exp",
+    "01_Preface/04_project_of_the_book/ostep-projects/tester/xv6-edit-makefile.sh",
+    "01_Preface/04_project_of_the_book/ostep-projects/tester/run-tests.sh",
+    "01_Preface/04_project_of_the_book/ostep-projects/tester/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/tester",
+    "01_Preface/04_project_of_the_book/ostep-projects/vm-xv6-intro/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/vm-xv6-intro",
+    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test4",
+    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test3",
+    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test2",
+    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test1",
+    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-xv6/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-xv6/background.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-xv6-tracer/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wzip/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wunzip/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-xv6-threads/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-checker/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-checker/CONTEST.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed-ufs/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-memcached/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wgrep/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-reverse/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-kv/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-webserver/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-sort/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-pzip/README.md",
+    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-mapreduce/README.md"
   ]
 }
