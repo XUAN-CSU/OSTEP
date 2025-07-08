@@ -151,3 +151,93 @@ peachier; peachiest
 2
 
 **:** unusually fine **:** [dandy](https://www.merriam-webster.com/dictionary/dandy)
+
+# sprinkle
+
+1 of 2
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+sprin·​kle [ˈspriŋ-kəl](https://www.merriam-webster.com/dictionary/sprinkled?pronunciation&lang=en_us&dir=s&file=sprink01 "How to pronounce sprinkle (audio)") 
+
+sprinkled; sprinkling [ˈspriŋ-k(ə-)liŋ](https://www.merriam-webster.com/dictionary/sprinkled?pronunciation&lang=en_us&dir=s&file=sprink02 "How to pronounce sprinkle (audio)") 
+
+[Synonyms of _sprinkle_](https://www.merriam-webster.com/thesaurus/sprinkle)
+
+[transitive verb](https://www.merriam-webster.com/dictionary/transitive)
+
+1
+
+**:** to scatter in drops or particles
+
+2
+
+a
+
+**:** to scatter over
+
+b
+
+**:** to scatter at intervals in or among **:** [dot](https://www.merriam-webster.com/dictionary/dot)
+
+_sprinkled_ the speech with quips
+
+c
+
+**:** to wet lightly
+
+[intransitive verb](https://www.merriam-webster.com/dictionary/intransitive)
+
+1
+
+**:** to scatter a liquid in fine drops
+
+2
+
+**:** to rain lightly in scattered drops
+
+sprinkler 
+
+[ˈspriŋ-k(ə-)lər](https://www.merriam-webster.com/dictionary/sprinkled?pronunciation&lang=en_us&dir=s&file=sprink03 "How to pronounce sprinkle (audio)") 
+
+ noun
+
+sprinkle
+
+2 of 2
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+1
+
+**:** the act or an instance of [sprinkling](https://www.merriam-webster.com/dictionary/sprinkling)
+
+especially **:** a light rain
+
+2
+
+**:** [sprinkling](https://www.merriam-webster.com/dictionary/sprinkling)
+
+3
+
+sprinkles plural **:** small particles of candy used as a topping (as on ice cream) **:** [jimmies](https://www.merriam-webster.com/dictionary/jimmies)
+
+# addendum
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+ad·​den·​dum [ə-ˈden-dəm](https://www.merriam-webster.com/dictionary/addendum?pronunciation&lang=en_us&dir=a&file=addend03 "How to pronounce addendum (audio)") 
+
+pluraladdenda [ə-ˈden-də](https://www.merriam-webster.com/dictionary/addendum?pronunciation&lang=en_us&dir=a&file=addend04 "How to pronounce addendum (audio)")  also addendums
+
+[Synonyms of _addendum_](https://www.merriam-webster.com/thesaurus/addendum)
+
+1
+
+**:** a thing added **:** [addition](https://www.merriam-webster.com/dictionary/addition)
+
+2
+
+**:** a [supplement](https://www.merriam-webster.com/dictionary/supplement#h1) to a book 
+
+—often used in plural but singular in construction
