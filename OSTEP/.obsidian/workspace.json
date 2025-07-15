@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "901910aa04787e13",
+        "id": "8622cc122c6d760d",
         "type": "tabs",
         "children": [
           {
-            "id": "6717cddffb0315ad",
+            "id": "5b2d9f9a9294101f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Introduction_to_Operating_Systems/03_Virtualizing_the_CPU.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03_Virtualizing_the_CPU"
+              "title": "New tab"
             }
           }
         ]
@@ -168,20 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6717cddffb0315ad",
+  "active": "74660d0095cfc0f2",
   "lastOpenFiles": [
+    "02_Introduction_to_Operating_Systems/06_Virtualizing_Memory.md",
+    "02_Introduction_to_Operating_Systems/05_Virtualizing_the_CPU.md",
+    "Example_stack_smash_attack.md",
+    "Untitled.canvas",
+    "Example_stack_smash_attack",
+    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/stack_smash",
+    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/input.txt",
+    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/Makefile",
+    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/stack_smash.c",
+    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack",
     "Unknown_English_Words.md",
-    "02_Introduction_to_Operating_Systems/03_Virtualizing_the_CPU.md",
     "02_Introduction_to_Operating_Systems/03_Example_memory_code/a",
     "02_Introduction_to_Operating_Systems/03_Example_memory_code/mem.c",
     "02_Introduction_to_Operating_Systems/03_Example_memory_code/common.h",
     "02_Introduction_to_Operating_Systems/03_Example_memory_code",
-    "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/a",
-    "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/common.h",
-    "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/cpu.c",
-    "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code",
-    "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf",
-    "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond (2019, McGraw-Hill Education) - libgen.li.pdf",
     "01_Preface/01_Page_Fault.md",
     "Welcome.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
@@ -202,8 +201,6 @@
     "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-memcached/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wgrep/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-reverse/README.md"
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md"
   ]
 }
