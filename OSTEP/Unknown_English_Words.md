@@ -574,3 +574,111 @@ elapse
 
 returned after an elapse of 15 years
 
+
+# juggle
+
+1 of 2
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+jug·​gle [ˈjə-gəl](https://www.merriam-webster.com/dictionary/juggle?pronunciation&lang=en_us&dir=j&file=juggle01 "How to pronounce juggle (audio)") 
+
+juggled; juggling [ˈjə-g(ə-)liŋ](https://www.merriam-webster.com/dictionary/juggle?pronunciation&lang=en_us&dir=j&file=juggle02 "How to pronounce juggle (audio)") 
+
+[Synonyms of _juggle_](https://www.merriam-webster.com/thesaurus/juggle)
+
+[intransitive verb](https://www.merriam-webster.com/dictionary/intransitive)
+
+1
+
+**:** to perform the tricks of a [juggler](https://www.merriam-webster.com/dictionary/juggler)
+
+2
+
+**:** to engage in manipulation especially in order to achieve a desired end
+
+[transitive verb](https://www.merriam-webster.com/dictionary/transitive)
+
+1
+
+**:** to handle or deal with usually several things (such as obligations) at one time so as to satisfy often competing requirements
+
+juggle the responsibilities of family life and full-time job—Jane S. Gould
+
+2
+
+a
+
+**:** to practice deceit or trickery on **:** [beguile](https://www.merriam-webster.com/dictionary/beguile)
+
+b
+
+**:** to manipulate or rearrange especially in order to achieve a desired end
+
+juggle an account to hide a loss
+
+3
+
+a
+
+**:** to toss in the manner of a juggler
+
+b
+
+**:** to hold or balance precariously
+
+juggle
+
+2 of 2
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+**:** an act or instance of [juggling](https://www.merriam-webster.com/dictionary/juggling):
+
+a
+
+**:** a trick of magic
+
+b
+
+**:** a show of manual dexterity
+
+c
+
+**:** an act of manipulation especially to achieve a desired end
+
+# arena
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+are·​na [ə-ˈrē-nə](https://www.merriam-webster.com/dictionary/arena?pronunciation&lang=en_us&dir=a&file=arena001 "How to pronounce arena (audio)") 
+
+[Synonyms of _arena_](https://www.merriam-webster.com/thesaurus/arena)
+
+1
+
+**:** an area in a Roman amphitheater for gladiatorial combats
+
+2
+
+a
+
+**:** an enclosed area used for public entertainment
+
+b
+
+**:** a building containing an arena
+
+3
+
+a
+
+**:** a sphere of interest, activity, or competition
+
+the political arena
+
+b
+
+**:** a place or situation for controversy
+
+in the public arena
