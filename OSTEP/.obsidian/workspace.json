@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a2aded4d5e72e15a",
+        "id": "901910aa04787e13",
         "type": "tabs",
         "children": [
           {
-            "id": "8a95d9b7c8a2e0f9",
+            "id": "6717cddffb0315ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li"
             }
           }
         ]
@@ -164,25 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a95d9b7c8a2e0f9",
+  "active": "6717cddffb0315ad",
   "lastOpenFiles": [
-    "01_Preface/01_Page_Fault.md",
+    "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond (2019, McGraw-Hill Education) - libgen.li.pdf",
     "Unknown_English_Words.md",
+    "02_Introduction_to_Operating_Systems/02_.md",
+    "01_Preface/01_Page_Fault.md",
+    "Welcome.md",
+    "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf",
+    "02_Introduction_to_Operating_Systems/01_Reference_Store",
+    "02_Introduction_to_Operating_Systems/01_Reference/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond (2019, McGraw-Hill Education) - libgen.li.pdf",
+    "02_Introduction_to_Operating_Systems/01_Reference/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf",
+    "02_Introduction_to_Operating_Systems/01_Reference",
+    "02_Introduction_to_Operating_Systems",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
     "01_Preface/04_project_of_the_book/Project_link_of_the_book.md",
     "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery",
     "01_Preface/04_project_of_the_book/ostep-projects/tester/run-xv6-command.exp",
     "01_Preface/04_project_of_the_book/ostep-projects/tester/xv6-edit-makefile.sh",
-    "01_Preface/04_project_of_the_book/ostep-projects/tester/run-tests.sh",
     "01_Preface/04_project_of_the_book/ostep-projects/tester/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/tester",
     "01_Preface/04_project_of_the_book/ostep-projects/vm-xv6-intro/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/vm-xv6-intro",
-    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test4",
-    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test3",
-    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test2",
-    "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/tests/p2a-test/test1",
     "01_Preface/04_project_of_the_book/ostep-projects/processes-shell/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-xv6/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-xv6/background.md",
@@ -198,9 +202,6 @@
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wgrep/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-reverse/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-kv/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-webserver/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/concurrency-sort/README.md"
+    "01_Preface/04_project_of_the_book/ostep-projects/initial-reverse/README.md"
   ]
 }

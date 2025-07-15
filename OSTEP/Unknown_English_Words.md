@@ -467,3 +467,81 @@ murkiness 
 - [darkened](https://www.merriam-webster.com/dictionary/darkened)
 - [dark](https://www.merriam-webster.com/dictionary/dark)
 
+
+# firm up
+
+## [transitive verb](https://www.merriam-webster.com/dictionary/transitive)
+
+**:** to assure a steady flow of (as hydroelectric power) by means of a reserve supplementary source of electric power
+
+
+
+# underneath
+
+1 of 2
+
+## [preposition](https://www.merriam-webster.com/dictionary/preposition)
+
+un·​der·​neath [ˌən-dər-ˈnēth](https://www.merriam-webster.com/dictionary/underneath?pronunciation&lang=en_us&dir=u&file=undern01 "How to pronounce underneath (audio)") 
+
+[Synonyms of _underneath_](https://www.merriam-webster.com/thesaurus/underneath)
+
+1
+
+a
+
+**:** directly beneath
+
+write the date underneath the address
+
+b
+
+**:** close [under](https://www.merriam-webster.com/dictionary/under) especially so as to be hidden
+
+treachery lying underneath a mask of friendliness
+
+wore a swimsuit underneath his slacks
+
+2
+
+**:** under subjection to
+
+underneath
+
+2 of 2
+
+## [adverb](https://www.merriam-webster.com/dictionary/adverb)
+
+1
+
+**:** [under](https://www.merriam-webster.com/dictionary/under) or below an object or a surface **:** [beneath](https://www.merriam-webster.com/dictionary/beneath)
+
+2
+
+**:** on the lower side
+
+underneath adjective
+
+# overzealous
+
+## [adjective](https://www.merriam-webster.com/dictionary/adjective)
+
+over·​zeal·​ous [ˌō-vər-ˈze-ləs](https://www.merriam-webster.com/dictionary/overzealous?pronunciation&lang=en_us&dir=o&file=overz01ld "How to pronounce overzealous (audio)") 
+
+**:** too [zealous](https://www.merriam-webster.com/dictionary/zealous) **:** having or showing too much [zeal](https://www.merriam-webster.com/dictionary/zeal) **:** excessively eager, enthusiastic, or fervent
+
+overzealous parents
+
+overzealous workers
+
+… another version of the overzealous monitoring that has produced kids who leave for college without ever having crossed the street by themselves.—Peggy Orenstein
+
+The village saw the orders as unwarranted interference from an overzealous state bureaucracy and promptly appealed.—Joe Treen and S. Avery Brown
+
+overzealously adverb
+
+… has been frequently accused by its critics of acting recklessly, overzealously, and even, at times, illegally.—Steve Lustgarden
+
+overzealousness noun
+
+Jewell was annoyed that press descriptions of him always emphasized his "overzealousness"; he considers himself a man of details.—Marie Brenner
