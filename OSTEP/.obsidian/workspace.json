@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8622cc122c6d760d",
+        "id": "4e01551cf9313b46",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2d9f9a9294101f",
+            "id": "e24cf364bb216f73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/Example_Multi_Thread_Program.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Example_Multi_Thread_Program"
             }
           }
         ]
@@ -166,21 +170,24 @@
   },
   "active": "74660d0095cfc0f2",
   "lastOpenFiles": [
+    "02_Introduction_to_Operating_Systems/08_Concurrency.md",
+    "02_Introduction_to_Operating_Systems/09_Persistence.md",
+    "Unknown_English_Words.md",
+    "02_Introduction_to_Operating_Systems/10_Example_IO_code/does_IO",
+    "02_Introduction_to_Operating_Systems/10_Example_IO_code/Makefile",
+    "02_Introduction_to_Operating_Systems/10_Example_IO_code/does_IO.c",
+    "02_Introduction_to_Operating_Systems/10_Example_IO_code",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/Example_Multi_Thread_Program.md",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/multi-thread",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/common_threads.h",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/Makefile",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program/thread.c",
+    "02_Introduction_to_Operating_Systems/07_Example_Multi-Thread_program",
     "02_Introduction_to_Operating_Systems/06_Virtualizing_Memory.md",
     "02_Introduction_to_Operating_Systems/05_Virtualizing_the_CPU.md",
     "Example_stack_smash_attack.md",
     "Untitled.canvas",
     "Example_stack_smash_attack",
-    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/stack_smash",
-    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/input.txt",
-    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/Makefile",
-    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack/stack_smash.c",
-    "02_Introduction_to_Operating_Systems/04_Example_stack_smash_attack",
-    "Unknown_English_Words.md",
-    "02_Introduction_to_Operating_Systems/03_Example_memory_code/a",
-    "02_Introduction_to_Operating_Systems/03_Example_memory_code/mem.c",
-    "02_Introduction_to_Operating_Systems/03_Example_memory_code/common.h",
-    "02_Introduction_to_Operating_Systems/03_Example_memory_code",
     "01_Preface/01_Page_Fault.md",
     "Welcome.md",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
@@ -198,9 +205,6 @@
     "01_Preface/04_project_of_the_book/ostep-projects/filesystems-checker/README.md",
     "01_Preface/04_project_of_the_book/ostep-projects/filesystems-checker/CONTEST.md",
     "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed-ufs/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-memcached/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wgrep/README.md",
-    "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/wcat/README.md"
+    "01_Preface/04_project_of_the_book/ostep-projects/filesystems-distributed/README.md"
   ]
 }
