@@ -545,3 +545,32 @@ overzealously adverb
 overzealousness noun
 
 Jewell was annoyed that press descriptions of him always emphasized his "overzealousness"; he considers himself a man of details.—Marie Brenner
+
+# elapse
+
+1 of 2
+
+## [verb](https://www.merriam-webster.com/dictionary/verb)
+
+[i-ˈlaps](https://www.merriam-webster.com/dictionary/elapsed?pronunciation&lang=en_us&dir=e&file=elapse01 "How to pronounce elapse (audio)") 
+
+elapsed; elapsing
+
+[Synonyms of _elapse_](https://www.merriam-webster.com/thesaurus/elapse)
+
+[intransitive verb](https://www.merriam-webster.com/dictionary/intransitive)
+
+**:** [pass](https://www.merriam-webster.com/dictionary/pass), [go by](https://www.merriam-webster.com/dictionary/go%20by)
+
+four years _elapsed_ before he returned
+
+elapse
+
+2 of 2
+
+## [noun](https://www.merriam-webster.com/dictionary/noun)
+
+**:** [passage](https://www.merriam-webster.com/dictionary/passage)
+
+returned after an elapse of 15 years
+
