@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Introduction_to_Operating_Systems/02_.md",
+                "file": "02_Introduction_to_Operating_Systems/03_Virtualizing_the_CPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_"
+              "title": "03_Virtualizing_the_CPU"
             }
           }
         ]
@@ -170,21 +170,20 @@
   },
   "active": "6717cddffb0315ad",
   "lastOpenFiles": [
+    "Unknown_English_Words.md",
+    "02_Introduction_to_Operating_Systems/03_Virtualizing_the_CPU.md",
+    "02_Introduction_to_Operating_Systems/03_Example_memory_code/a",
+    "02_Introduction_to_Operating_Systems/03_Example_memory_code/mem.c",
+    "02_Introduction_to_Operating_Systems/03_Example_memory_code/common.h",
+    "02_Introduction_to_Operating_Systems/03_Example_memory_code",
     "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/a",
     "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/common.h",
     "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code/cpu.c",
     "02_Introduction_to_Operating_Systems/02_Example_loop_and_print_code",
     "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf",
     "02_Introduction_to_Operating_Systems/01_Reference_Store/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond (2019, McGraw-Hill Education) - libgen.li.pdf",
-    "Unknown_English_Words.md",
-    "02_Introduction_to_Operating_Systems/02_.md",
     "01_Preface/01_Page_Fault.md",
     "Welcome.md",
-    "02_Introduction_to_Operating_Systems/01_Reference_Store",
-    "02_Introduction_to_Operating_Systems/01_Reference/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond (2019, McGraw-Hill Education) - libgen.li.pdf",
-    "02_Introduction_to_Operating_Systems/01_Reference/Yale Patt, Sanjay Patel - Introduction to Computing Systems_ From Bits _ Gates to C_C++ _ Beyond [Errata _ Student Solutions Manual] (2019) - libgen.li.pdf",
-    "02_Introduction_to_Operating_Systems/01_Reference",
-    "02_Introduction_to_Operating_Systems",
     "01_Preface/04_project_of_the_book/ostep-projects/initial-utilities/FUTURE.md",
     "01_Preface/04_project_of_the_book/Project_link_of_the_book.md",
     "01_Preface/04_project_of_the_book/ostep-projects/scheduling-xv6-lottery/README.md",
