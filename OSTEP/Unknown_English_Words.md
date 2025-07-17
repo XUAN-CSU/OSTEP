@@ -682,3 +682,43 @@ b
 **:** a place or situation for controversy
 
 in the public arena
+
+# intricate
+
+## [adjective](https://www.merriam-webster.com/dictionary/adjective)
+
+in·​tri·​cate [ˈin-tri-kət](https://www.merriam-webster.com/dictionary/intricate?pronunciation&lang=en_us&dir=i&file=intric02 "How to pronounce intricate (audio)") 
+
+[Synonyms of _intricate_](https://www.merriam-webster.com/thesaurus/intricate)
+
+1
+
+**:** having many complexly interrelating parts or elements **:** [complicated](https://www.merriam-webster.com/dictionary/complicated)
+
+intricate machinery
+
+an intricate plot
+
+2
+
+**:** difficult to resolve or analyze
+
+intricately adverb
+
+intricateness noun
+
+# malicious
+
+## [adjective](https://www.merriam-webster.com/dictionary/adjective)
+
+ma·​li·​cious [mə-ˈli-shəs](https://www.merriam-webster.com/dictionary/malicious?pronunciation&lang=en_us&dir=m&file=malici01 "How to pronounce malicious (audio)") 
+
+[Synonyms of _malicious_](https://www.merriam-webster.com/thesaurus/malicious)
+
+**:** having or showing a desire to cause harm to someone **:** given to, marked by, or arising from [malice](https://www.merriam-webster.com/dictionary/malice)
+
+malicious gossip
+
+maliciously adverb
+
+maliciousness noun
